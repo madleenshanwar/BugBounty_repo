@@ -1,0 +1,6 @@
+export const companies = [
+    { name: 'Darrebni', logo: '/assets/images/Drrebni.png', Link:'www.darrebni.com',description:'With Fjord Tours you can explore more of the magical fjord landscapes with tours andactivities on and around the fjords of Norway',number:'150',type:'Govemental' },
+    { name: 'Edrak', logo: '/assets/images/Edrak.png', Link:'www.darrebni.com',description:'With Fjord Tours you can explore more of the magical fjord landscapes with tours andactivities on and around the fjords of Norway',number:'150',type:'Govemental' }, 
+    { name: 'Mostaqel', logo: '/assets/images/Mostaqel.png', Link:'www.darrebni.com',description:'With Fjord Tours you can explore more of the magical fjord landscapes with tours andactivities on and around the fjords of Norway',number:'150',type:'Govemental' },
+    { name: 'Adobi', logo: '/assets/images/Adobi.png', Link:'www.darrebni.com',description:'With Fjord Tours you can explore more of the magical fjord landscapes with tours andactivities on and around the fjords of Norway',number:'150',type:'Govemental' },
+]
